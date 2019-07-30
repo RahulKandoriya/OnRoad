@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "408595881449",
+    "firebase_url": "https://onroad-635e7.firebaseio.com",
+    "project_id": "onroad-635e7",
+    "storage_bucket": "onroad-635e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408595881449:android:40a033d778cec57c",
+        "android_client_info": {
+          "package_name": "com.csproject.apps.onroadassistanceapp.onroad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408595881449-6eroeq1taa2g85rn73b3a8iv46n3rkb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.csproject.apps.onroadassistanceapp.onroad",
+            "certificate_hash": "8aed14574426a9310bfa50aa6cf78ac133e0d031"
+          }
+        },
+        {
+          "client_id": "408595881449-vosat22oed6t5kqm0sldv9orcrv89i1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3KJmiWuNbkd-GIsTxoBGdfQ1L3ZtO8a4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408595881449-vosat22oed6t5kqm0sldv9orcrv89i1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
